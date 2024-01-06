@@ -52,3 +52,7 @@ Technologies used in the project:
 <img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/mobile1.png" alt="project-screenshot" >
 
 <img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/mobile2.png" alt="project-screenshot" >
+
+<img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/mobile3.png" alt="project-screenshot" >
+
+<img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/mobile4.png" alt="project-screenshot" >
