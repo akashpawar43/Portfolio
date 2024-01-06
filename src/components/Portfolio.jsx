@@ -40,6 +40,7 @@ function Portfolio() {
         {
             src: "venus.webp",
             title: "Venus International",
+            git: "venus-react",
             description: 'Website developed using React, NodeJS and Bootstrap',
             technologies: ['React.js', 'Node.js', 'JavaScript', 'Bootstrap', 'React-Router'],
         },
