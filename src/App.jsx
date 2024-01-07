@@ -11,7 +11,6 @@ export default function App() {
         <Route exact path="/" element={<Home />} />
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/contact" element={<Form />} />
-        {/* Add more routes if needed */}
       </Routes>
     </BrowserRouter>
   )
