@@ -9,8 +9,6 @@ export default function App() {
     <BrowserRouter>
       <Routes>
         <Route exact path="/" element={<Home />} />
-        <Route path="/portfolio" element={<Portfolio />} />
-        <Route path="/contact" element={<Form />} />
       </Routes>
     </BrowserRouter>
   )
