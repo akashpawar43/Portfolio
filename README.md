@@ -37,22 +37,19 @@ Technologies used in the project:
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/website1.png" alt="project-screenshot" >
+<h3>Website View</h3>
 
-<img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/website2.png" alt="project-screenshot" >
+<span><img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/website1.png" alt="project-screenshot" ></span>
+<span><img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/website2.png" alt="project-screenshot" ></span>
+<span><img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/website3.png" alt="project-screenshot" ></span>
+<span><img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/website4.png" alt="project-screenshot" ></span>
+<span><img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/website5.png" alt="project-screenshot" ></span>
+<span><img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/website6.png" alt="project-screenshot" ></span>
 
-<img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/website3.png" alt="project-screenshot" >
+<h3>Mobile View</h3>
 
-<img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/website4.png" alt="project-screenshot" >
-
-<img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/website5.png" alt="project-screenshot" >
-
-<h3>Mobile</h3>
-
-<img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/mobile1.png" alt="project-screenshot" >
-
-<img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/mobile2.png" alt="project-screenshot" >
-
-<img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/mobile3.png" alt="project-screenshot" >
-
-<img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/mobile4.png" alt="project-screenshot" >
+<span><img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/mobile1.png" alt="project-screenshot" ></span>
+<span><img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/mobile2.png" alt="project-screenshot" ></span>
+<span><img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/mobile3.png" alt="project-screenshot" ></span>
+<span><img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/mobile4.png" alt="project-screenshot" ></span>
+<span><img src="https://github.com/akashpawar43/Portfolio/blob/master/public/assets/mobile5.png" alt="project-screenshot" ></span>

@@ -1,3 +1,4 @@
+import Footer from './Footer';
 import Form from './Form';
 import Hero from './Hero';
 import Portfolio from './Portfolio';
@@ -12,18 +13,24 @@ function Home() {
                 <Hero />
             </section>
 
+            {/* Portfolio Section */}
             <section>
                 <Portfolio />
             </section>
 
-            {/* Content Section */}
+            {/* Skills Section */}
             <section className=' bg-gray-800'>
                 <Skills />
             </section>
 
+            {/* Form Section */}
             <section>
                 <Form />
             </section>
+
+            <footer>
+                <Footer/>
+            </footer>
         </div>
     );
 }
